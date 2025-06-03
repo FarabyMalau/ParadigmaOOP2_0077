@@ -46,7 +46,7 @@ public:
 
 int main()
 {
-    Budi a(12) ;
+    budi a(12) ;
 
     return 0;
 }
