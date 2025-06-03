@@ -43,3 +43,10 @@ public:
         cout << "Budi dibuat\n" << endl;
     }
 };
+
+int main()
+{
+    Budi a(12) ;
+
+    return 0;
+}
